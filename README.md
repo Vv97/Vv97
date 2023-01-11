@@ -1,3 +1,5 @@
+<img  src="https://i.ibb.co/j6WbGdy/New-Project-11-62-BBB5-B.png" >
+
 <h1 align="center">Hi 👋, I'm Vishal Varma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
