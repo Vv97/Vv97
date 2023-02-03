@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **vishalvarma537@gmail.com**
+- 📫 How to reach me <a href="vishalvarma537@gmail.com" target="blank">vishalvarma537@gmail.com</a>
 
 
 <h3 align="left">Connect with me:</h3>
