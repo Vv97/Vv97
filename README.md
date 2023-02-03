@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning ** Mango DB, Express.js,**
 
-- 👨‍💻 All of my projects are available at [https://vv97.github.io/](https://vv97.github.io/)
-
+- 👨‍💻 All of my projects are available at <a href="https://vv97.github.io/" target="blank">https://vv97.github.io/</a> 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me <a href="vishalvarma537@gmail.com" target="blank">vishalvarma537@gmail.com</a>
