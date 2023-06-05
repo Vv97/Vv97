@@ -7,7 +7,7 @@
  <p align="left">&nbsp; <img src="https://komarev.com/ghpvc/?username=vv97&label=Profile%20views&color=0e75b6&style=flat" alt="vv97" />
 </p> 
 
-- 🌱 I’m currently learning ** MERN,**
+- 🌱 I’m currently learning MERN
 
 - 👨‍💻 All of my projects are available at <a href="https://vv97.github.io/" target="blank">https://vv97.github.io/</a> 
 - 💬 Ask me about **MERN**
